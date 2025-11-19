@@ -1,6 +1,6 @@
 //your JS code here. If required.
 const changeBtn=document.querySelector("#change_button");
-const resetBtn=document.querySelector("#Reset");
+const resetBtn=document.querySelector("#reset_button");
 
 changeBtn.addEventListener('click',()=>{
 	let color=document.querySelector("#colour_id").value;
